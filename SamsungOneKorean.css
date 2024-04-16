@@ -4,17 +4,17 @@
     font-family:'SamsungOneKorean';
     font-style:normal;
     font-weight:normal;
-    src:url('/fonts/SamsungOneKorean-400.eot');
-    src:url('/fonts/SamsungOneKorean-400.eot?#iefix') format("embedded-opentype"),
-        url('/fonts/SamsungOneKorean-400.woff2') format("woff2"),
-        url('/fonts/SamsungOneKorean-400.woff') format("woff");
+    src:url('https://www.samsung.com/sec/static/_font/SamsungOneKorean-400.eot');
+    src:url('https://www.samsung.com/sec/static/_font/SamsungOneKorean-400.eot?#iefix') format("embedded-opentype"),
+        url('https://www.samsung.com/sec/static/_font/SamsungOneKorean-400.woff2') format("woff2"),
+        url('https://www.samsung.com/sec/static/_font/SamsungOneKorean-400.woff') format("woff");
 }
 @font-face {
     font-family:'SamsungOneKorean';
     font-style:normal;
     font-weight:bold;
-    src:url('/fonts/SamsungOneKorean-700.eot');
-    src:url('/fonts/SamsungOneKorean-700.eot?#iefix') format("embedded-opentype"),
-        url('/fonts/SamsungOneKorean-700.woff2') format("woff2"),
-        url('/fonts/SamsungOneKorean-700.woff') format("woff");
+    src:url('https://www.samsung.com/sec/static/_font/SamsungOneKorean-700.eot');
+    src:url('https://www.samsung.com/sec/static/_font/SamsungOneKorean-700.eot?#iefix') format("embedded-opentype"),
+        url('https://www.samsung.com/sec/static/_font/SamsungOneKorean-700.woff2') format("woff2"),
+        url('https://www.samsung.com/sec/static/_font/SamsungOneKorean-700.woff') format("woff");
 }
